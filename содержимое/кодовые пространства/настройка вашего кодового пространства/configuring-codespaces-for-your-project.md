@@ -1,4 +1,4 @@
----
+---Ewn4UKX1n9eqfuUK6ZmM22IQXjAg8FGkXmFikO8dnZg
 title: Configuring Codespaces for your project
 intro: 'You can use a `devcontainer.json` file to define a {% data variables.product.prodname_codespaces %} environment for your repository.'
 permissions: People with write permissions to a repository can create or edit the codespace configuration.
